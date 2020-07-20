@@ -1,0 +1,7 @@
+{
+  "name": "VideoCheck",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
